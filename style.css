@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+    background-color:rgb(114, 56, 154);
+}
+
+p {
+    color:rgb(222, 222, 222);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+b {
+    color:rgba(148, 71, 255, 0.688);
+    font-family:'Times New Roman', Times, serif;
+    font-size:22px;
+}
+
+label {
+    color:rgba(97, 45, 150, 0.812);
+    font-size: 24px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
